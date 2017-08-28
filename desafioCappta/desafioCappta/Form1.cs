@@ -23,8 +23,6 @@ namespace desafioCappta {
             Mapa.largura = largura;
             Mapa.altura = altura;
 
-            MessageBox.Show(largura + " " + altura);
-
             this.Hide();
 
             Form2 form2 = new Form2();
