@@ -1,0 +1,10 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\bin\Debug\desafioCappta.exe.config
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\bin\Debug\desafioCappta.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\bin\Debug\desafioCappta.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\obj\Debug\desafioCappta.csprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\obj\Debug\desafioCappta.Form1.resources
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\obj\Debug\desafioCappta.Properties.Resources.resources
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\obj\Debug\desafioCappta.csproj.GenerateResource.Cache
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\obj\Debug\desafioCappta.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\desafioCappta\desafioCappta\obj\Debug\desafioCappta.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\desafioCappta\obj\Debug\desafioCappta.Form2.resources

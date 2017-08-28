@@ -1,0 +1,8 @@
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\UnitTestProject1\bin\Debug\desafioCappta.exe
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\desafioCappta\UnitTestProject1\bin\Debug\desafioCappta.pdb
